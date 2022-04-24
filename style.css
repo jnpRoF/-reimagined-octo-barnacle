@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Manrope', sans-serif;
+}
+.part1{
+    display: flex;
+}
+.section1 h2{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 76px;
+width: 550px;
+letter-spacing: -0.03em;
+
+color: #1E1B1B;
+}
+.section1 p{
+    width: 400px;
+}
+.num1{
+   border-radius: 50%;
+width: 42px;
+height: 42px;
+background: #661CE7;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #fff;
+font-size: 18px;
+}
+.sec2-head1{
+    display: flex;
+align-items: center;
+}
+.sec2-head2{
+    width: 350px;
+border-left-style: dotted;
+}
