@@ -356,6 +356,9 @@
   .prt2-last p {
     font-size: 18px !important;
   }
+  .prt2{
+    padding: 70px 16px 0 16px;
+  }
 }
 
 @media screen and (max-width: 360px) {
@@ -367,9 +370,15 @@
   .section2 {
     width: auto;
   }
+  .wrapper-cont{
+    padding: 0 20px;
+  }
   .wrap,
   .wraph {
     width: 100%;
+  }
+  .prt2{
+    padding: 70px 16px 0 16px;
   }
   .prt2-last {
     justify-content: center;
@@ -382,3 +391,4 @@
   }
 }
 /* services page up next */
+/* so do i push to the main after working or i merge or i can do both */
