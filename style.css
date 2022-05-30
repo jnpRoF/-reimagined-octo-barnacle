@@ -184,12 +184,6 @@
   font-weight: 800;
   color: #661ce7;
 }
-.prt4-1 h2 {
-  font-size: calc(1vh + 2.4vw);
-}
-.prt4-1 p {
-  font-size: calc(1vh + 1.3vw);
-}
 .part5 {
   background-color: #fafafa;
   height: 350px;
@@ -341,7 +335,7 @@
     font-size: 20px;
   }
   .sec2-1 {
-    width: 80%;
+    width: 100%;
   }
   .section-text-p {
     font-size: 16px;
@@ -356,28 +350,28 @@
   .prt2-last p {
     font-size: 18px !important;
   }
-  .prt2{
+  .prt2 {
     padding: 70px 16px 0 16px;
   }
 }
 
 @media screen and (max-width: 360px) {
   .section1 h2 {
-    font-size: 5vw;
+    line-height: 29px;
   }
   /* .section-text-p {
   } */
   .section2 {
-    width: auto;
+    width: 100%;
   }
-  .wrapper-cont{
+  .wrapper-cont {
     padding: 0 20px;
   }
   .wrap,
   .wraph {
     width: 100%;
   }
-  .prt2{
+  .prt2 {
     padding: 70px 16px 0 16px;
   }
   .prt2-last {
