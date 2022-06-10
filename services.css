@@ -512,3 +512,8 @@
     font-size: 18px;
   }
 }
+@media screen and (max-width: 385px) {
+  .part1 {
+    height: 100%;
+  }
+}
