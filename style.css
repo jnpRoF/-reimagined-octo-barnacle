@@ -734,6 +734,19 @@
   .part3-img-wrap2 {
     top: 796px;
   }
+  .part3-img-wrap1,
+  .part3-img-wrap2 {
+    width: 150px;
+    height: 60px;
+  }
+  .part3-img-wrapper {
+    width: 110px;
+    height: 45px;
+  }
+  .star {
+    width: 9px;
+    height: 9px;
+  }
 }
 @media screen and (max-width: 495px) {
   .part3-img-wrap1 {
